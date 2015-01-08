@@ -15,7 +15,9 @@ public class JavaApplication2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        float num;
+        double num1;
+        double num2;
+        double resultado;
     }
     
 }
