@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package javaapplication2;
-
+import java.util.Scanner;
 /**
  *
  * @author Batoi
@@ -15,7 +15,12 @@ public class JavaApplication2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        float num;
+        
+        Scanner leer = new Scanner(System.in);
+        
+        double num1;
+        double num2;
+        double resultado;
     }
     
 }
