@@ -17,10 +17,15 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         
         Scanner leer = new Scanner(System.in);
+        double num1, num2, resultado;
+        int opcion;
+        switch(opcion){
+            case 1: System.out.println("Holi");
+                break;
+            case 2:System.out.println("Holi 2");
         
-        double num1;
-        double num2;
-        double resultado;
+        
+        }
     }
     
 }
