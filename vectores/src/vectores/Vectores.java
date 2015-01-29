@@ -21,6 +21,7 @@ public class Vectores {
         
         Scanner leer = new Scanner(System.in);
         
+        System.out.println("--------------------------------");
         System.out.println("Asigna cinco valores al vector: ");
         System.out.println("--------------------------------");
         for(int x=0;x<=4;x++){
